@@ -1,4 +1,16 @@
-Properties/launchSettings.json
+# Ignore build output
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.vspscc
+*.vssscc
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
 .vscode/*
-bin/*
-obj/*
+Properties
